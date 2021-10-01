@@ -1,0 +1,2 @@
+javac -sourcepath . application/Main.java
+java -cp . application/Main
